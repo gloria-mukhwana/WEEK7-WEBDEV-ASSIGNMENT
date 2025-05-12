@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Animation with JavaScript and localStorage</title>
+  <link rel="stylesheet" href="TWO.css">
+</head>
+<body>
+  <p class="animated-element">This text will blink.</p>
+  <button id="triggerAnimationButton">Start/Stop Animation</button>
+
+  <script src="TWO.js"></script>
+</body>
+</html>
